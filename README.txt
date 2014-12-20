@@ -1,12 +1,12 @@
 This folder contains the C files and header for the project - "Rectangling the panorama " implemented by Adheesh Gokhale 
 This is re-implementation of SIGGRAPH 2013 paper. http://research.microsoft.com/en-us/um/people/kahe/sig13/index.html
-
+Please refer to Project Report.pdf for a summary of process involved as well as scope for improvement.
 
 Although the files are stored in CPP format, most of this, is a C code. The code inlcudes calls to these libraries: <windows.h>,<stdio.h>,<stdlib.h> and <math.h>. Since <windows.h> is used, this needs windows to compile.
 Some functions have been described as "written for dev./testing purpose". They have not been called.
 
 
-Following is the list of files(in alphabetical order of names) and functions implented. First those files are mentione which contain some code copied from internet. For such files, each function has been mentioned separately, if written by me or taken from internet.
+Following is the list of files(in alphabetical order of names) and functions implented. First those files are mentioned which contain some code copied from internet. For such files, each function has been mentioned separately, if written by me or taken from internet.
 
 
 1. main.cpp 550 lines. Contains code copied from http://tipsandtricks.runicsoft.com/Cpp/BitmapTutorial.html. the copied code is used to read and save bitmap images
