@@ -1,5 +1,6 @@
-This folder contains the C files and header for the project - "Rectangling the panorama " implemented by Adheesh Gokhale (109293558). 
-CSE528Final.zip : this contains the CodeBlocks project.
+This folder contains the C files and header for the project - "Rectangling the panorama " implemented by Adheesh Gokhale 
+This is re-implementation of SIGGRAPH 2013 paper. http://research.microsoft.com/en-us/um/people/kahe/sig13/index.html
+
 
 Although the files are stored in CPP format, most of this, is a C code. The code inlcudes calls to these libraries: <windows.h>,<stdio.h>,<stdlib.h> and <math.h>. Since <windows.h> is used, this needs windows to compile.
 Some functions have been described as "written for dev./testing purpose". They have not been called.
